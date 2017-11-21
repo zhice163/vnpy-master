@@ -1,0 +1,9 @@
+[
+
+
+    {
+        "name": "atr rsi",
+        "className": "AtrRsiStrategy",
+        "vtSymbol": "a1801"
+    }
+]
